@@ -1,4 +1,12 @@
 # advanced-tip-calculator
 Author Burulsun Taalaibekova
 
-You cn check out images zip file for screenshots
+Modified version of a tip calculator where I have included "Number of people" and "Amount per person"
+
+![](Screenshots/im1.jpeg)
+
+![](Screenshots/im2.jpeg)
+
+![](Screenshots/im3.jpeg)
+
+
